@@ -1,8 +1,8 @@
-# Hola, soy Angel Zazueta 👋
+# Hi, I'm Angel Zazueta 👋
 
-Soy estudiante de Ingeniería en Sistemas de Información, enfocado en el desarrollo de sistemas web, APIs, automatización de procesos e integración de inteligencia artificial en sistemas empresariales.
+I'm an Information Systems Engineering student focused on web development, APIs, process automation, and the integration of artificial intelligence into business systems.
 
-## 🚀 Tecnologías que uso
+## 🚀 Technologies I Use
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -19,30 +19,29 @@ Soy estudiante de Ingeniería en Sistemas de Información, enfocado en el desarr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-## 🧩 Proyectos destacados
+## 🧩 Featured Projects
 
 ### ChemTrack EcoLab
 
-Sistema enfocado en la trazabilidad de reactivos químicos, control de inventario, historial de movimientos, generación de reportes y administración de usuarios.
+A system focused on chemical reagent traceability, inventory control, movement history, report generation, and user management.
 
 ### JornalPro Documentation Automation
 
-Microservicio orientado a la automatización de documentación técnica mediante inteligencia artificial.
+A microservice focused on automating technical documentation using artificial intelligence.
 
-## 📌 Actualmente aprendiendo
+## 📌 Currently Learning
 
-- Arquitecturas multi-tenant
-- Automatización de documentación
-- Integración de IA en sistemas empresariales
-- Sistemas offline-first
-- Buenas prácticas para APIs y documentación técnica
+- Multi-tenant architectures
+- Documentation automation
+- AI integration in business systems
+- Offline-first systems
+- Best practices for APIs and technical documentation
 
+## ⚡ A Little More About Me
 
-## ⚡ Un poco más sobre mí
+When I'm not coding, I'm probably training at the gym, watching One Piece, or remembering that Lightning McQueen is still a legend. Ka-chow ⚡🏎️
 
-Cuando no estoy programando, probablemente estoy entrenando en el gimnasio, viendo One Piece o recordando que Lightning McQueen sigue siendo una leyenda. Ka-chow ⚡🏎️
-
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AngelZ1305&show_icons=true&theme=tokyonight" />
@@ -52,8 +51,8 @@ Cuando no estoy programando, probablemente estoy entrenando en el gimnasio, vien
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelZ1305&layout=compact&theme=tokyonight" />
 </p>
 
-## 📫 Contacto
+## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.zazueta13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.zazueta13@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-AngelZ1305-181717?style=for-the-badge&logo=github)](https://github.com/AngelZ1305)
