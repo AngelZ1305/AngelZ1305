@@ -41,14 +41,10 @@ A microservice focused on automating technical documentation using artificial in
 
 When I'm not coding, I'm probably training at the gym, watching One Piece, or remembering that Lightning McQueen is still a legend. Ka-chow ⚡🏎️
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelZ1305&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelZ1305&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AngelZ1305&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📫 Contact
